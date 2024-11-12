@@ -5,3 +5,5 @@ https://storage.yandexcloud.net/ds-ods/files/data/docs/competitions/DataFusion20
 Дистанция до кластера
 
 https://github.com/warofgam/Sber-AI-Lab---datafusion
+
+https://github.com/Ivanich-spb/datafusion_2024_churn/blob/main/Ptls_embeds_generation.ipynb
